@@ -1,0 +1,6 @@
+[submodule "playbook-artifactory"]
+	path = packer-docker-artifactory
+	url = https://github.com/Plork/packer-docker-artifactory.git
+[submodule "packer-docker-artifactory"]
+	path = packer-docker-artifactory
+	url = https://github.com/Plork/packer-docker-artifactory.git
